@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.waves-color-demo .btn:not(.waves-light),
+.waves-color-demo .btn-large:not(.waves-light) {
+    background-color: #FFFFFF;
+    color: #212121;
+}
+
+.waves-color-demo .btn:not(.waves-light),
+.waves-color-demo .btn-large:not(.waves-light) {
+    background-color: #FFFFFF;
+    color: #212121;
+}

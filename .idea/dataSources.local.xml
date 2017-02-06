@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - pysoil@localhost" uuid="dca9c800-05ee-4fc4-9ffa-95cdb760bd69">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>pysoil.*</schema-pattern>
+      <default-schemas>pysoil.*</default-schemas>
+    </data-source>
+  </component>
+</project>
